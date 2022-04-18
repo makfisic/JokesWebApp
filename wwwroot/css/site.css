@@ -1,0 +1,33 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #eee;
+}
+
+.control-label {
+    margin: 10px;
+}
+
+.form-group {
+    margin-top: 20px;
+}
+
+.bList {
+    margin-top: 10px;
+}
+
+
